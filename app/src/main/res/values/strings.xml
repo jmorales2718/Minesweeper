@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="flagMode">Switch To Flag Mode</string>
+    <string name="clickMode">Switch To Click Mode</string>
+    <string name="restart">RESTART</string>
+    <string name="start">Start</string>
+    <string name="instructions">Instructions</string>
+    <string name="settings">Settings</string>
+    <string name="ivOne">First instructions image</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="music">Music:</string>
+    <string name="mute">Mute Music</string>
+    <string name="unmute">Unmute</string>
+    <string name="muting">Mute</string>
+    <string name="retry">Retry</string>
+    <string name="mainMenu">Main Menu</string>
+
+</resources>
